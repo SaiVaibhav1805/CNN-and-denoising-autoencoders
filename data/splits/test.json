@@ -1,0 +1,2012 @@
+[
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard268.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic73.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal403.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard148.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal339.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass475.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic434.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic82.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic21.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass167.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal152.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass497.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper404.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal293.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard10.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard157.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard381.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper295.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard195.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper370.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal327.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass90.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\trash\\trash76.jpg",
+    "label": 5,
+    "class_name": "trash"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper395.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper339.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic160.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal155.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper340.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass_022.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass5.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard144.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper76.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal4.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper82.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass355.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper65.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass490.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper482.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal378.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic403.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard332.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass189.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal333.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper112.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard146.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper153.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass184.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal373.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper242.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass15.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\trash\\trash134.jpg",
+    "label": 5,
+    "class_name": "trash"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal346.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic230.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\trash\\trash32.jpg",
+    "label": 5,
+    "class_name": "trash"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard383.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper333.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic174.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper90.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal390.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard295.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic418.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper315.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard_009.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic175.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper116.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal45.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\trash\\trash81.jpg",
+    "label": 5,
+    "class_name": "trash"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic335.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic85.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\trash\\trash69.jpg",
+    "label": 5,
+    "class_name": "trash"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass299.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard106.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass323.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic89.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper209.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper390.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass_015.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\trash\\trash82.jpg",
+    "label": 5,
+    "class_name": "trash"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal107.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper134.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass418.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard89.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper274.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic144.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal119.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal254.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass230.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic337.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass440.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\trash\\trash123.jpg",
+    "label": 5,
+    "class_name": "trash"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper30.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic214.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic225.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper471.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard402.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic51.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\trash\\trash22.jpg",
+    "label": 5,
+    "class_name": "trash"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass320.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal337.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass242.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic36.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic_012.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic109.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard292.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper216.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass466.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass263.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard6.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass275.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic373.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic203.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard310.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal209.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper441.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic257.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper62.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic90.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic339.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass429.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal306.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass_017.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass470.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper71.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal215.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic362.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper42.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper279.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass423.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass330.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic35.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\trash\\trash108.jpg",
+    "label": 5,
+    "class_name": "trash"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard19.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper131.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic190.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass308.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal186.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic236.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass33.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic408.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic360.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard291.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal310.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper547.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard34.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal184.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal65.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard111.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal389.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic383.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal360.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass160.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper74.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass453.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic463.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\trash\\trash_002.jpg",
+    "label": 5,
+    "class_name": "trash"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass405.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper37.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass107.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic167.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper518.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass344.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper3.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass486.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass183.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal300.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic254.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal169.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard46.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard154.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\trash\\trash11.jpg",
+    "label": 5,
+    "class_name": "trash"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic71.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic38.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper149.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper383.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper591.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass145.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic298.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass55.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal_015.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass292.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic413.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper236.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic64.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass138.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass498.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard179.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal1.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard269.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper98.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard336.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass133.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper_019.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\trash\\trash132.jpg",
+    "label": 5,
+    "class_name": "trash"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\trash\\trash127.jpg",
+    "label": 5,
+    "class_name": "trash"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic172.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard290.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass_021.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\trash\\trash97.jpg",
+    "label": 5,
+    "class_name": "trash"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard223.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic47.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass188.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal77.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal132.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass97.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic145.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard110.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper120.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard9.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper171.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass493.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal73.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard220.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass68.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper263.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper40.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper460.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass228.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic351.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper495.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper385.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper583.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper67.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\trash\\trash105.jpg",
+    "label": 5,
+    "class_name": "trash"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\trash\\trash113.jpg",
+    "label": 5,
+    "class_name": "trash"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal359.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic_007.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard253.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard41.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass430.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal311.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal344.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass381.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic78.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic407.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper140.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper106.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper201.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard68.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal176.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic458.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal222.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper257.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper86.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic227.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal160.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper454.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard377.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper44.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic157.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal371.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic342.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal383.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass19.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic75.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper535.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass259.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard138.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard33.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass245.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal210.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal385.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic117.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper433.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal18.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper437.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass316.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard117.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass294.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic79.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass474.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal303.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic390.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard181.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard208.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard348.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard24.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper176.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal253.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass450.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper524.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass119.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass391.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard271.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal43.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard214.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper39.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper99.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper241.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal_020.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper572.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper402.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard294.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard216.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard40.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper266.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass370.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal167.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\trash\\trash_006.jpg",
+    "label": 5,
+    "class_name": "trash"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass403.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\trash\\trash57.jpg",
+    "label": 5,
+    "class_name": "trash"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard280.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic414.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\trash\\trash130.jpg",
+    "label": 5,
+    "class_name": "trash"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal_016.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass437.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper66.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard163.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper590.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic_024.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper358.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper408.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper523.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard102.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass146.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal95.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper354.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard395.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal236.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic23.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard66.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass65.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal341.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\trash\\trash95.jpg",
+    "label": 5,
+    "class_name": "trash"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard90.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass434.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal136.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass404.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal362.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal13.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper378.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic182.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard306.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic297.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper467.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal229.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal96.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper323.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass154.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic194.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\trash\\trash_019.jpg",
+    "label": 5,
+    "class_name": "trash"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass456.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass120.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper574.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\trash\\trash89.jpg",
+    "label": 5,
+    "class_name": "trash"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass200.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass185.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard235.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass235.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper592.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper450.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper488.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard118.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic441.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper539.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic91.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper206.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic370.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic290.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard135.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic319.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal140.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic18.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic372.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass109.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal_024.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper267.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper225.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass261.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic_002.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard365.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper251.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass9.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic241.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal72.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper507.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass137.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass455.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal20.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal116.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic357.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass60.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\trash\\trash61.jpg",
+    "label": 5,
+    "class_name": "trash"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard244.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard330.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal48.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper188.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic226.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper458.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal223.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard311.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic122.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper498.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\trash\\trash6.jpg",
+    "label": 5,
+    "class_name": "trash"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper235.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\glass\\glass76.jpg",
+    "label": 1,
+    "class_name": "glass"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper97.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\paper\\paper_015.jpg",
+    "label": 3,
+    "class_name": "paper"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic367.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard51.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\plastic\\plastic115.jpg",
+    "label": 4,
+    "class_name": "plastic"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\metal\\metal243.jpg",
+    "label": 2,
+    "class_name": "metal"
+  },
+  {
+    "path": "C:\\Users\\N.SAI VAIBHAV\\WasteClassification(CNN)\\data\\raw\\cardboard\\cardboard397.jpg",
+    "label": 0,
+    "class_name": "cardboard"
+  }
+]
