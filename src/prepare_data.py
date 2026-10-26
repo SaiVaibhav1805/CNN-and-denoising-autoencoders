@@ -10,15 +10,10 @@ Satisfies PRD Functional Requirements:
 import json
 import os
 from pathlib import Path
-from typing import Dict, List, Tuple
+from typing import Dict, List, Tuple, Any
 
-import cv2
 import numpy as np
 from PIL import Image
-from sklearn.model_selection import train_test_split
-from sklearn.utils.class_weight import compute_class_weight
-import tensorflow as tf
-from tensorflow.keras import layers
 
 from src import config
 
@@ -59,6 +54,7 @@ def create_and_save_splits(
         raise ValueError("No images found in raw directory. Please download or generate dataset first.")
         
     indices = np.arange(len(image_paths))
+    from sklearn.model_selection import train_test_split
     
     # First split: train vs (val + test)
     val_test_ratio = val_ratio + test_ratio
@@ -183,6 +179,7 @@ def load_dataset_arrays(split_name: str) -> Tuple[np.ndarray, np.ndarray]:
 
 def get_class_weights_dict(labels: np.ndarray) -> Dict[int, float]:
     """Computes balanced class weights to address TrashNet class imbalance (PRD Risk Mitigation)."""
+    from sklearn.utils.class_weight import compute_class_weight
     classes = np.unique(labels)
     weights = compute_class_weight(class_weight="balanced", classes=classes, y=labels)
     weight_dict = {int(cls): float(w) for cls, w in zip(classes, weights)}
@@ -194,8 +191,11 @@ def create_tf_dataset_for_cnn(
     labels: np.ndarray,
     batch_size: int = config.BATCH_SIZE,
     augment: bool = False
-) -> tf.data.Dataset:
+) -> Any:
     """Creates an optimized tf.data.Dataset pipeline with optional data augmentation for CNN."""
+    import tensorflow as tf
+    from tensorflow.keras import layers
+
     dataset = tf.data.Dataset.from_tensor_slices((images, labels))
     
     if augment:
@@ -220,8 +220,10 @@ def create_tf_dataset_for_dae(
     batch_size: int = config.BATCH_SIZE,
     noise_factor: float = config.NOISE_FACTOR,
     shuffle: bool = True
-) -> tf.data.Dataset:
+) -> Any:
     """Creates a tf.data.Dataset pipeline yielding (noisy_image, clean_image) pairs for DAE."""
+    import tensorflow as tf
+
     noisy_images = add_gaussian_noise(clean_images, noise_factor=noise_factor)
     dataset = tf.data.Dataset.from_tensor_slices((noisy_images, clean_images))
     

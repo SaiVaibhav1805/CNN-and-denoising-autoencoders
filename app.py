@@ -6,15 +6,42 @@ PRD Requirements:
 - FR-10: Display reconstruction metrics (PSNR, MSE) and classification comparison.
 """
 
-import json
+import os
+import sys
 from pathlib import Path
+
+# Ensure repository root is on sys.path for cloud deployments (e.g. Streamlit Cloud / Docker)
+ROOT_DIR = Path(__file__).resolve().parent
+if str(ROOT_DIR) not in sys.path:
+    sys.path.insert(0, str(ROOT_DIR))
+
+import json
 from PIL import Image
 import numpy as np
 import plotly.graph_objects as go
 import streamlit as st
 
 from src import config
-from src.prepare_data import add_gaussian_noise, add_salt_and_pepper_noise
+
+try:
+    from src.prepare_data import add_gaussian_noise, add_salt_and_pepper_noise
+except ImportError:
+    # Resilient fallback noise generators if src.prepare_data cannot be imported
+    def add_gaussian_noise(images: np.ndarray, noise_factor: float = 0.25, seed: int = None) -> np.ndarray:
+        rng = np.random.default_rng(seed)
+        noise = rng.normal(loc=0.0, scale=noise_factor, size=images.shape)
+        return np.clip(images + noise, 0.0, 1.0).astype(np.float32)
+
+    def add_salt_and_pepper_noise(images: np.ndarray, amount: float = 0.05, salt_vs_pepper: float = 0.5, seed: int = None) -> np.ndarray:
+        rng = np.random.default_rng(seed)
+        noisy_images = images.copy()
+        num_salt = np.ceil(amount * images.size * salt_vs_pepper)
+        coords = [rng.integers(0, i - 1, int(num_salt)) for i in images.shape]
+        noisy_images[tuple(coords)] = 1.0
+        num_pepper = np.ceil(amount * images.size * (1.0 - salt_vs_pepper))
+        coords = [rng.integers(0, i - 1, int(num_pepper)) for i in images.shape]
+        noisy_images[tuple(coords)] = 0.0
+        return np.clip(noisy_images, 0.0, 1.0).astype(np.float32)
 
 # Configure Page
 st.set_page_config(
@@ -68,13 +95,13 @@ def load_models():
     
     if config.CNN_MODEL_PATH.exists():
         try:
-            cnn = keras.models.load_model(config.CNN_MODEL_PATH)
+            cnn = keras.models.load_model(config.CNN_MODEL_PATH, compile=False)
         except Exception as e:
             st.warning(f"Could not load CNN model: {e}")
             
     if config.DAE_MODEL_PATH.exists():
         try:
-            dae = keras.models.load_model(config.DAE_MODEL_PATH)
+            dae = keras.models.load_model(config.DAE_MODEL_PATH, compile=False)
         except Exception as e:
             st.warning(f"Could not load DAE model: {e}")
             
