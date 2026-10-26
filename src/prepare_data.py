@@ -145,18 +145,23 @@ def add_salt_and_pepper_noise(
     seed: int = None
 ) -> np.ndarray:
     """Adds salt and pepper noise to images and keeps values in [0, 1]."""
+    if amount <= 0:
+        return images.copy().astype(np.float32)
+
     rng = np.random.default_rng(seed)
     noisy_images = images.copy()
     
     # Salt
-    num_salt = np.ceil(amount * images.size * salt_vs_pepper)
-    coords = [rng.integers(0, i - 1, int(num_salt)) for i in images.shape]
-    noisy_images[tuple(coords)] = 1.0
+    num_salt = int(np.ceil(amount * images.size * salt_vs_pepper))
+    if num_salt > 0:
+        coords = [rng.integers(0, i, num_salt) for i in images.shape]
+        noisy_images[tuple(coords)] = 1.0
     
     # Pepper
-    num_pepper = np.ceil(amount * images.size * (1.0 - salt_vs_pepper))
-    coords = [rng.integers(0, i - 1, int(num_pepper)) for i in images.shape]
-    noisy_images[tuple(coords)] = 0.0
+    num_pepper = int(np.ceil(amount * images.size * (1.0 - salt_vs_pepper)))
+    if num_pepper > 0:
+        coords = [rng.integers(0, i, num_pepper) for i in images.shape]
+        noisy_images[tuple(coords)] = 0.0
     
     return np.clip(noisy_images, 0.0, 1.0).astype(np.float32)
 
